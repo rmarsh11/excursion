@@ -1,28 +1,26 @@
-body {
+body{
   font-family: verdana;
   font-weight: normal;
+  color: white;
   text-align: center;
   background-color: black;
 }
-h1 {
+h1{
   font-size: 50px;
-  color: white;
 }
-h2 {
+h2{
   font-weight: 300;
-  font-size: 43px;
-  color: white;
+  font-size: 42px;
 }
-h4 {
-  font-size: 16px;
-  color: aquamarine;
-
-}
-p {
+.main-paragraph{
   font-size: 21px;
   color: gray;
 }
-#copyright {
-  text-align: right;
+.copyright{
   color: gray;
+  text-align: right;
+}
+.link{
+  color: aquamarine;
+  font-size: 16px;
 }
